@@ -491,7 +491,7 @@
                       "optional": true,
                       "computed": true
                     },
-                    "disable_triple_des_chipers": {
+                    "disable_triple_des_ciphers": {
                       "type": "bool",
                       "optional": true,
                       "computed": true

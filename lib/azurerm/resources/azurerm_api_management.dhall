@@ -94,7 +94,7 @@
               , disable_frontend_ssl30 : Optional Bool
               , disable_frontend_tls10 : Optional Bool
               , disable_frontend_tls11 : Optional Bool
-              , disable_triple_des_chipers : Optional Bool
+              , disable_triple_des_ciphers : Optional Bool
               , disable_triple_des_ciphers : Optional Bool
               , enable_backend_ssl30 : Optional Bool
               , enable_backend_tls10 : Optional Bool
@@ -211,7 +211,7 @@
               , disable_frontend_ssl30 : Optional Bool
               , disable_frontend_tls10 : Optional Bool
               , disable_frontend_tls11 : Optional Bool
-              , disable_triple_des_chipers : Optional Bool
+              , disable_triple_des_ciphers : Optional Bool
               , disable_triple_des_ciphers : Optional Bool
               , enable_backend_ssl30 : Optional Bool
               , enable_backend_tls10 : Optional Bool
